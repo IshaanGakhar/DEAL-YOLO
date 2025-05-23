@@ -1,0 +1,15 @@
+train: /kaggle/input/waiddataset/WAID-main/WAID-main/WAID/images/train
+val: /kaggle/input/waiddataset/WAID-main/WAID-main/WAID/images/valid
+test: /kaggle/input/waiddataset/WAID-main/WAID-main/WAID/images/test
+
+nc: 6
+
+names:
+  0: sheep
+  1: cattle
+  2: seal
+  3: camelus
+  4: kiang
+  5: zebra
+ 
+
