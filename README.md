@@ -20,7 +20,7 @@ Through this approach, our paper aims to facilitate the detection of endangered 
 
 ## Model Architecture
 
-![DEAL-YOLO Architecture](model_diagram.png)
+![DEAL-YOLO Architecture](resources/Model_Diagram.pdf)
 
 The architecture incorporates:
 - **LDConv**: Linear Deformable Convolution layers
